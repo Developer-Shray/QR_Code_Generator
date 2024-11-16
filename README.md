@@ -6,3 +6,10 @@
 4. You can also set this QR Icon.ico as icon of your shortcut file.
 5. Place your shortcut anywhere in the system.
 6. Launch you .bat file and start making QRs.
+
+# Note
+Currently not using the version 2.
+For single qr generation at a time 1st version is sufficient.
+
+
+"""Thankyou"""
