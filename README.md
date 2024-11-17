@@ -9,7 +9,8 @@
 
 # Note
 Currently not using the version 2.
-For single qr generation at a time 1st version is sufficient.
+For single qr generation at a time 1st or 3rd version is sufficient.
+I'm currently using version 3.
 
 
 # Version 3 Update
