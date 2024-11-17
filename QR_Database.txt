@@ -1,0 +1,4 @@
+Create Database of ur choice.
+Then Create a Table using this script.
+
+CREATE TABLE QRCodeRecords ( ID INT PRIMARY KEY IDENTITY(1,1), Name NVARCHAR(MAX), Content NVARCHAR(MAX), GeneratedAt DATETIME );
