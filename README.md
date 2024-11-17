@@ -12,4 +12,10 @@ Currently not using the version 2.
 For single qr generation at a time 1st version is sufficient.
 
 
+# Version 3 Update
+
+In this version I've created a database too.
+When ever a qr is generated from this application then it will also stored in database.
+
+
 """Thankyou"""
